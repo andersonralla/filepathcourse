@@ -1,0 +1,14 @@
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\bin\Debug\net6.0\ExercicioFilesPath.exe
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\bin\Debug\net6.0\ExercicioFilesPath.deps.json
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\bin\Debug\net6.0\ExercicioFilesPath.runtimeconfig.json
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\bin\Debug\net6.0\ExercicioFilesPath.dll
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\bin\Debug\net6.0\ExercicioFilesPath.pdb
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.AssemblyInfoInputs.cache
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.AssemblyInfo.cs
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.csproj.CoreCompileInputs.cache
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.dll
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\refint\ExercicioFilesPath.dll
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.pdb
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ExercicioFilesPath.genruntimeconfig.cache
+C:\Users\anderson.oliveira\Documents\Anderson\!\CursoC#\ExercicioFilesPath\obj\Debug\net6.0\ref\ExercicioFilesPath.dll
